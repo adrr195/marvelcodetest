@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Adrian Code test</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="no_character">No character selected</string>
+  <string name="name">Android Developer</string>
+</resources>
